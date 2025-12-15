@@ -1,0 +1,24 @@
+{
+  "name": "Diamond Chocolate - The Perfect Selection",
+  "short_name": "Diamond Chocolate",
+  "description": "Premium handcrafted chocolates - The Perfect Selection",
+  "icons": [
+    {
+      "src": "/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#5c3d2e",
+  "background_color": "#5c3d2e",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
+}
